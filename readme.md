@@ -1,6 +1,9 @@
 # Title
 HTML, CSS project 1
 
+![Screenshot](https://github.com/user-attachments/assets/6ccc58ed-17cd-48e0-bdfc-f66ca2f514a0)
+
+
 ## Table of Contents
 
 - [Technologies](#technologies)
