@@ -35,6 +35,8 @@ border: none;
 
 8. Understanding a documentation is often understanding meanings of words
 
+9. chatgpt helps to debug in 2 windows instead of 5 windows before it
+- font family check gave results for great chrome extension whatfont 
 
 ## Githubtips
 Github helped
