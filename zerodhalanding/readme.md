@@ -1,5 +1,4 @@
-# Title
-HTML, CSS project 1
+# HTML, CSS project 1
 
 ## Table of Contents
 
