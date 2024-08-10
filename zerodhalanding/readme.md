@@ -1,5 +1,5 @@
 # HTML, CSS project 1
-![Screenshot](https://github.com/user-attachments/assets/48950770-f0ea-4f6d-93fe-8189869bdaee)
+![screenshot](https://github.com/user-attachments/assets/b2fc76b2-4cb0-4c9c-9a18-c529664a8b7f)
 
 
 ## Table of Contents
