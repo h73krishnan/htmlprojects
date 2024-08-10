@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zerodha landing page</title>
+
+    <style>
+        .navbar-hamburger {
+        width: 20px;
+        height: 2px;
+        position: relative;
+        margin: 10px;
+        }
+
+        .navbar-hamburger::before, 
+        .navbar-hamburger::after{
+        content: "";
+        width: 100%;
+        height: 100%;
+        background-color: #424242;
+        position: absolute;
+        }
+        .navbar-hamburger::before {
+        top: -6px;
+        }
+
+        .navbar-hamburger::after {
+        top: 6px;
+        }
+
+    </style>
+</head>
+<body style="font-family:sans-serif">
+    <section>
+        <div class="navbar" style="position:sticky; margin:auto; width:100%; display: flex; justify-content: space-between; ">
+            <div class="navbar-logo" style="margin-left: 40px; cursor: pointer;">
+                    <img src="./images/logo.svg" alt="" style="height: 20px;" >
+            </div>
+            
+            <div style="width: 40%; margin-right: 40px; display: flex; gap: 21px; ">
+                <div class="navbar-menu" style="display: flex; gap: 21px; font-size: 15px; color:#bcbcbc; cursor: pointer;">
+                    <div class="navbar-list-items">Signup</div>
+                    <div class="navbar-list-items">About</div>
+                    <div class="navbar-list-items">Products</div>
+                    <div class="navbar-list-items">Pricing</div>
+                    <div class="navbar-list-items">Support</div>
+                </div>
+                <div class="navbar-hamburger" style="background-color: #424242;"></div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
