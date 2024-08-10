@@ -1,4 +1,6 @@
 # HTML, CSS project 1
+![Screenshot](https://github.com/user-attachments/assets/48950770-f0ea-4f6d-93fe-8189869bdaee)
+
 
 ## Table of Contents
 
